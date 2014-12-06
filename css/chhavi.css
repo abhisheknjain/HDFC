@@ -1,0 +1,38 @@
+#footer
+{
+ background: none repeat scroll 0 0 #252C34;
+    color: #ffffff;
+    padding: 20px 0 30px;
+}
+.headline {
+    border-bottom: 1px dotted #E96656;
+    display: block;
+    margin: 10px 0 25px;
+}
+
+#link-footer
+{
+color: #E4E9F0;
+}
+
+.dl-horizontal dt {
+    text-align: left;
+    white-space: nowrap;
+	width: 60px;
+}
+#imgftr{
+     border: 0.1px solid #DDDDDD;
+    margin-top: 2px;
+    padding: 2px;
+   
+}
+.dl-horizontal dd {
+    margin-left: 0px;
+}
+#lower-footer
+{
+ background: none repeat scroll 0 0 #E9E9E9;
+    color: #000000;
+    padding: 10px 0 10px;
+	height:10%
+}
